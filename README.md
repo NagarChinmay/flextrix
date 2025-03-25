@@ -223,7 +223,7 @@ if (context.isMobile) {
 **Chinmay Nagar** – *Flutter Developer & Tech Enthusiast*
 
 🔗 **Portfolio**: [chinmaynagar-dev.web.app](https://chinmaynagar-dev.web.app/)  
-💼 **LinkedIn**: [https://www.linkedin.com/in/chinmay-nagar-55786424b/](https://www.linkedin.com/in/chinmaynagar/)  
+💼 **LinkedIn**: [chinmay-nagar-55786424b](https://www.linkedin.com/in/chinmay-nagar-55786424b/)  
 📧 **Email**: [nagar.chinmay.7@gmail.com](mailto:nagar.chinmay.7@gmail.com)
 
 ---
