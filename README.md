@@ -228,8 +228,11 @@ if (context.isMobile) {
 
 ---
 
-## 📝 **License**
-This project is licensed under the **MIT License**.
+## License
+This software is licensed under a **custom "No Modification, No Redistribution"** license.
+- ✅ You may **use** this software.
+- ❌ You **may NOT** modify, redistribute, or resell it.
+- ⚠️ Provided **as is**, without warranty.
 
 ---
 
