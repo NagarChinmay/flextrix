@@ -5,7 +5,7 @@ Here's the **final enhanced** `README.md` file with the **author name** and **po
 # **Flextrix Example App** 🚀
 
 [![Pub Version](https://img.shields.io/pub/v/flextrix?style=flat-square)](https://pub.dev/packages/flextrix)  
-[![License](https://img.shields.io/github/license/chinamy-nagar/flextrix-example?style=flat-square)](LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Flutter-blue?style=flat-square)](https://flutter.dev)
 
 **Flextrix Example App** demonstrates how to **create adaptive and responsive UIs effortlessly** using the **Flextrix** package. It automatically adjusts UI elements based on **screen size**, making your app look great on **mobile, tablet, and desktop** 📱💻.
@@ -223,16 +223,8 @@ if (context.isMobile) {
 **Chinmay Nagar** – *Flutter Developer & Tech Enthusiast*
 
 🔗 **Portfolio**: [chinmaynagar-dev.web.app](https://chinmaynagar-dev.web.app/)  
-💼 **LinkedIn**: [linkedin.com/in/chinmaynagar](https://www.linkedin.com/in/chinmaynagar/)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/chinmay-nagar-55786424b/](https://www.linkedin.com/in/chinmaynagar/)  
 📧 **Email**: [nagar.chinmay.7@gmail.com](mailto:nagar.chinmay.7@gmail.com)
-
----
-
-## License
-This software is licensed under a **custom "No Modification, No Redistribution"** license.
-- ✅ You may **use** this software.
-- ❌ You **may NOT** modify, redistribute, or resell it.
-- ⚠️ Provided **as is**, without warranty.
 
 ---
 
