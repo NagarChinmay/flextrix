@@ -1,7 +1,5 @@
-Here's the **final enhanced** `README.md` file with the **author name** and **portfolio link** added. 🚀
 
 ---
-
 # **Flextrix Example App** 🚀
 
 [![Pub Version](https://img.shields.io/pub/v/flextrix?style=flat-square)](https://pub.dev/packages/flextrix)  
@@ -232,5 +230,3 @@ Now your **Flutter app is fully responsive** using **Flextrix**! 🚀
 Drop a ⭐ if you like this package! ❤️
 
 ---
-
-This version makes the **README** look highly professional, **developer-friendly**, and **perfect for pub.dev**. 🚀
